@@ -7,15 +7,15 @@
  * @type {{wordPressUrl: string}}
  */
 const config = {
-  title: `Scott Bolinger`,
-  description: `Scott Bolinger`,
-  author: `Scott Bolinger`,
-  twitter: `scottbolinger`,
-  wordPressUrl: `https://designbyscott.wpengine.com`,
-  siteUrl: `https://scottbolinger.com`,
+  title: `David Bisset`,
+  description: `David Bisset`,
+  author: `David Bisset`,
+  twitter: `dimensionmedia`,
+  wordPressUrl: `https://mycamp.rocks`,
+  siteUrl: `https://practical-noyce-13759b.netlify.com`,
   dynamicComments: true,
   gaTrackingId: '',
-  mailChimpEndpoint: '',
+  mailChimpEndpoint: 'https://rocks.us3.list-manage.com/subscribe/post?u=9489c859df521aeb6956b08ed&amp;id=0b6862abcd',
 }
 
 module.exports = config
